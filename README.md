@@ -1,1 +1,2 @@
 # Word-Pairs
+In word pairs you write a constructor which takes the array of words and pairs them up as shown in the figure. You will need nested loops to pair each element with the rest of the elements in the list.In the second part of the aggisgment you are asked to write a method called numMatches that counts and returns the number of pairs where the first word is the same as the second word. t checks to see if its first word (using the getFirst() method) equals the second word (using the getSecond() method).
